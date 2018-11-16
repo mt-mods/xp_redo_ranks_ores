@@ -1,13 +1,13 @@
 
 local prefixes = {
-	{name="Cobble", icon="default_cobble.png", base_xp=0, xp_modifier=1}, -- 0 - 10k
-	{name="Stone", icon="default_stone.png", base_xp=20000, xp_modifier=2}, -- 20k - 40k
-	{name="Coal", icon="default_coalblock.png", base_xp=50000, xp_modifier=4}, -- 50k - 90k
-	{name="Iron", icon="default_steelblock.png", base_xp=100000, xp_modifier=8}, -- 100k - 180k
-	{name="Copper", icon="default_copperlock.png", base_xp=200000, xp_modifier=16}, -- 200k - 360k
-	{name="Gold", icon="default_goldblock.png", base_xp=400000, xp_modifier=32}, -- 400k - 720k
-	{name="Diamond", icon="default_diamondblock.png", base_xp=1000000, xp_modifier=64}, -- 1000k - 1640k
-	{name="Mese", icon="default_meseblock.png", base_xp=2000000, xp_modifier=128} -- 2000k - 3280k
+	{name="Cobble", icon="default_cobble.png", base_xp=0, xp_modifier=100}, -- 0 - 1k
+	{name="Stone", icon="default_stone.png", base_xp=2000, xp_modifier=200}, -- 2k - 4k
+	{name="Coal", icon="default_coalblock.png", base_xp=5000, xp_modifier=500}, -- 5k - 10k
+	{name="Iron", icon="default_steelblock.png", base_xp=20000, xp_modifier=6000}, -- 20k - 80k
+	{name="Copper", icon="default_copperlock.png", base_xp=100000, xp_modifier=10000}, -- 100k - 200k
+	{name="Gold", icon="default_goldblock.png", base_xp=300000, xp_modifier=50000}, -- 300k - 800k
+	{name="Diamond", icon="default_diamondblock.png", base_xp=1000000, xp_modifier=80000}, -- 1000k - 1800k
+	{name="Mese", icon="default_meseblock.png", base_xp=2000000, xp_modifier=300000} -- 2000k - 5000k
 }
 
 -- further ideas: lava, ?
@@ -15,12 +15,12 @@ local prefixes = {
 local suffixes = {
 	-- 7 suffixes
 	{name="Peasant", xp_modifier=0},
-	{name="Merchant", xp_modifier=10},
-	{name="Knight", xp_modifier=100},
-	{name="Lord", xp_modifier=1000},
-	{name="Mayor", xp_modifier=2000},
-	{name="Master", xp_modifier=5000},
-	{name="God", xp_modifier=10000}
+	{name="Merchant", xp_modifier=1},
+	{name="Knight", xp_modifier=2},
+	{name="Lord", xp_modifier=3},
+	{name="Mayor", xp_modifier=5},
+	{name="Master", xp_modifier=7},
+	{name="God", xp_modifier=10}
 }
 
 
