@@ -60,9 +60,9 @@ local prefixes = {
 		name="Lava",
 		icon="xp_lava.png",
 		color={r=238, g=30, b=30},
-		base_xp=5000000,
-		xp_modifier=500000
-	} -- 5000k - 10M
+		base_xp=6000000,
+		xp_modifier=400000
+	} -- 6000k - 10M
 }
 
 -- further ideas: mithril?
