@@ -60,12 +60,38 @@ local prefixes = {
 		name="Lava",
 		icon="xp_lava.png",
 		color={r=238, g=30, b=30},
-		base_xp=6000000,
-		xp_modifier=400000
-	} -- 6000k - 10M
+		base_xp=6*1000*1000,
+		xp_modifier=400*1000
+	}, -- 6000k - 10M
+	{
+		name="Sulfur",
+		icon="xp_sulfur.png",
+		color={r=255, g=237, b=77},
+		base_xp=10*1000*1000,
+		xp_modifier=200*1000
+	}, -- 10M - 12M
+	{
+		name="Chernobylite",
+		icon="xp_chernobylite.png",
+		color={r=30, g=138, b=30},
+		base_xp=12*1000*1000,
+		xp_modifier=300*1000
+	}, -- 12M - 15M
+	{
+		name="Corium",
+		icon="xp_corium.png",
+		color={r=30, g=238, b=30},
+		base_xp=15*1000*1000,
+		xp_modifier=300*1000
+	}, -- 15M - 18M
+	{
+		name="Mithril",
+		icon="xp_mithril.png",
+		color={r=49, g=79, b=232},
+		base_xp=18*1000*1000,
+		xp_modifier=300*1000
+	} -- 18M - 21M
 }
-
--- further ideas: mithril?
 
 local suffixes = {
 	-- 7 suffixes
@@ -93,5 +119,3 @@ for _,prefix in pairs(prefixes) do
 
 	end
 end
-
-
