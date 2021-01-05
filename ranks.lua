@@ -114,7 +114,7 @@ local suffixes = {
 
 -- #suffixes x #prefixes
 for _,prefix in pairs(prefixes) do
-	for i,suffix in pairs(suffixes) do
+	for _,suffix in pairs(suffixes) do
 		local xp = prefix.base_xp + (prefix.xp_modifier * suffix.xp_modifier)
 
 		xp_redo.register_rank({

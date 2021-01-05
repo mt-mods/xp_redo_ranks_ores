@@ -1,4 +1,6 @@
-# Ore ranks
+# Ore ranks for xp_redo
+
+[![luacheck](https://github.com/mt-mods/xp_redo_ranks_ores/workflows/luacheck/badge.svg)](https://github.com/mt-mods/xp_redo_ranks_ores/actions)
 
 ## Depends
 
