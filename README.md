@@ -12,7 +12,7 @@
 
 ### Code
 
-See `LICENSE.txt`.
+See [LICENSE.txt](/LICENSE.txt).
 
 ### Textures
 
