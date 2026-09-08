@@ -1,5 +1,10 @@
+unused_args = false
 
 globals = {
-	"minetest",
 	"xp_redo"
+}
+
+read_globals = {
+	-- Luanti
+	"minetest", "core"
 }
