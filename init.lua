@@ -1,6 +1,3 @@
+local MP = core.get_modpath(core.get_current_modname())
 
-local MP = minetest.get_modpath("xp_redo_ranks_ores")
-
-dofile(MP.."/ranks.lua")
-
-print("[OK] XP-Redo ore ranks")
+dofile(MP .. "/ranks.lua")

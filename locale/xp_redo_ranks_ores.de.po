@@ -1,0 +1,102 @@
+# German translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-07 20:59-0500\n"
+"PO-Revision-Date: 2026-09-07 20:59-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ranks.lua:5
+msgid "Cobble"
+msgstr ""
+
+#: ranks.lua:12
+msgid "Stone"
+msgstr ""
+
+#: ranks.lua:19
+msgid "Coal"
+msgstr ""
+
+#: ranks.lua:26
+msgid "Iron"
+msgstr ""
+
+#: ranks.lua:33
+msgid "Copper"
+msgstr ""
+
+#: ranks.lua:40
+msgid "Gold"
+msgstr ""
+
+#: ranks.lua:47
+msgid "Diamond"
+msgstr ""
+
+#: ranks.lua:54
+msgid "Mese"
+msgstr ""
+
+#: ranks.lua:61
+msgid "Lava"
+msgstr ""
+
+#: ranks.lua:68
+msgid "Sulfur"
+msgstr ""
+
+#: ranks.lua:75
+msgid "Uranium"
+msgstr ""
+
+#: ranks.lua:82
+msgid "Chernobylite"
+msgstr ""
+
+#: ranks.lua:89
+msgid "Corium"
+msgstr ""
+
+#: ranks.lua:96
+msgid "Mithril"
+msgstr ""
+
+#: ranks.lua:106
+msgid "Peasant"
+msgstr ""
+
+#: ranks.lua:107
+msgid "Merchant"
+msgstr ""
+
+#: ranks.lua:108
+msgid "Knight"
+msgstr ""
+
+#: ranks.lua:109
+msgid "Lord"
+msgstr ""
+
+#: ranks.lua:110
+msgid "Mayor"
+msgstr ""
+
+#: ranks.lua:111
+msgid "Master"
+msgstr ""
+
+#: ranks.lua:112
+msgid "God"
+msgstr ""
